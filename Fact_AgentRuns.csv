@@ -1,0 +1,11 @@
+role,model,runs,done_pct,median_model_usd,median_data_usd,median_minutes,median_requests,first_run,last_run
+content-writer,meta/muse-ember,53,91,0.0252,0.0,1.1,15,2026-11-10,2026-11-21
+content-writer,deepseek/deepseek-v4.1-flash-1017,19,84,0.027,0.0,2.9,29,2026-11-07,2026-11-10
+data-analyst,meta/muse-ember,32,78,0.0301,0.0184,1.2,15,2026-11-10,2026-11-19
+editor-qa,xiaomi/mimo-v2.6-pro,57,72,0.1242,0.0,24.3,26,2026-11-03,2026-11-21
+lead-researcher,xiaomi/mimo-v2.6-pro,16,63,0.0836,0.0027,15.6,23,2026-11-03,2026-11-17
+lead-researcher,tencent/hy4-flash,10,100,0.0085,0.0,3.9,23,2026-11-18,2026-11-21
+link-builder,meta/muse-ember,11,82,0.0248,0.0,1.1,10,2026-11-11,2026-11-20
+seo-analyst,meta/muse-ember,46,91,0.033,0.0576,1.6,18,2026-11-10,2026-11-21
+seo-analyst,xiaomi/mimo-v2.6-pro,22,82,0.101,0.0106,12.2,23,2026-10-29,2026-11-10
+technical-seo-auditor,xiaomi/mimo-v2.6-pro,5,40,0.2686,0.0623,39.2,36,2026-11-16,2026-11-21
